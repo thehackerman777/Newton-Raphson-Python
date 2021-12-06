@@ -5,7 +5,7 @@ Requisitos del sistema
 
 1.	Mínimo: Windows 7 o cualquier distribución Linux.
 2.	internet para la instalación de complementos.
-3.	
+	
 Elige una carpeta para hacer los siguientes pasos de instalación del programa
 
 1.	Instalación de Python en su sistema (Soporte para Python 3.5, 3.6, 3.7 por si ya tiene una versión), Vamos a la página oficial de Python www.python.org y posicionamos el cursor sobre la opción Downloads. Abre una ventana donde ya nos ofrece la descarga para Windows. Hacemos click en ese botón e inicia la descarga. Una vez que se descargó el ejecutable nos aparecerá la indicación
