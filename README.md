@@ -10,7 +10,7 @@ Requisitos del sistema
 
 *Elige una carpeta para hacer los siguientes pasos de instalación del programa*
 
-1) Instalación de python en su sistema(Soporte para Python 3.5, 3.6, 3.7 por si ya tiene una versión)
+1) Instalación de python en su sistema(Soporte para Python 3.5, 3.6, 3.7 por si ya tiene una versión), *Vamos a la página oficial de Python www.python.org y posicionamos el cursor sobre la opción Downloads. Abre una ventana donde ya nos ofrece la descarga para Windows. Hacemos click en ese botón e inicia la descarga. Una vez que se descargó el ejecutable nos aparecerá la indicación*
 2) Para descargar el repositorio de SymPy, ejecute lo siguiente desde la línea de comando: git clone https://github.com/sympy/sympy.git
 3) Para descargar este repositorio, ejecute lo siguiente desde la línea de comando: https://github.com/thehackerman777/Newton-Raphson-Python.git
 
